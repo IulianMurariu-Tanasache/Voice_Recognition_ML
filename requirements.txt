@@ -1,0 +1,7 @@
+sounddevice
+matplotlib
+numpy
+scikit-learn
+pandas
+tensorflow == 2.5.0
+glob2
